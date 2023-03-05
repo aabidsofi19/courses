@@ -1,7 +1,0 @@
---2023-03-03 22:48:17--  https://d3c33hcgiwev3.cloudfront.net/_410e934e6553ac56409b2cb7096a44aa_SCC.txt?Expires=1677974400
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving d3c33hcgiwev3.cloudfront.net (d3c33hcgiwev3.cloudfront.net)... 18.164.230.103, 18.164.230.193, 18.164.230.133, ...
-Connecting to d3c33hcgiwev3.cloudfront.net (d3c33hcgiwev3.cloudfront.net)|18.164.230.103|:443... connected.
-HTTP request sent, awaiting response... 403 Forbidden
-2023-03-03 22:48:18 ERROR 403: Forbidden.
-
